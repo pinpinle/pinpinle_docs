@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flutter-jp/pinpinle.git"
+    "url": "git+https://github.com/pinpinle/pinpinle_docs.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flutter-jp/pinpinle/issues"
+    "url": "https://github.com/pinpinle/pinpinle_docs/issues"
   },
-  "homepage": "https://github.com/houko/flutter-jp/pinpinle#readme"
+  "homepage": "https://github.com/houko/pinpinle/pinpinle_docs#readme"
 }
