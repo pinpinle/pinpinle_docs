@@ -1,0 +1,25 @@
+{
+  "name": "pinpinle",
+  "version": "1.0.0",
+  "description": "pinpinle.",
+  "main": "index.html",
+  "dependencies": {
+    "docsify-cli": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve",
+    "open": "start http://localhost:3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flutter-jp/pinpinle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flutter-jp/pinpinle/issues"
+  },
+  "homepage": "https://github.com/houko/flutter-jp/pinpinle#readme"
+}
