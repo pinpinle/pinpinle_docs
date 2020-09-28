@@ -24,7 +24,7 @@
 技术支持联系`@小莫`，商务合作联系`@悠々赫`
 
 <img src="./images/xiaomo_wecaht.jpg"  style="width:385px;height:500px" alt="xiaomo">
-<img src="./images/xiaomo_wecaht.jpg"  style="width:385px;height:500px" alt="xuhe">
+<img src="./images/xuhe_wechat.jpg"  style="width:385px;height:500px" alt="xuhe">
   
   
    
